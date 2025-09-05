@@ -68,6 +68,10 @@
 
 
 ## 注意
-Tlauncher 玩家确保选择的是 **Release Fabric Loader 1.21.6**，不是 **Fabric 1.21.6**， 不要选错！
+**Tlauncher** 玩家确保选择的是 **Release Fabric Loader 1.21.6**，不是 **Fabric 1.21.6**， 不要选错！
 
-![Homepage](13.png)
+❌❌❌❌❌❌❌❌
+
+![Homepage](14.png)
+
+❌❌❌❌❌❌❌❌
