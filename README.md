@@ -38,13 +38,36 @@
 ## 如果还没装 Fabric 1.21.6
 1. 下载 Fabric 的安装包
    https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.1.0/fabric-installer-1.1.0.exe
+
+![Homepage](7.png)
+
 2. 打开这个 Fabric Installer
+
+![Homepage](8.png)
+
 3. 确保上面选择 Client
+
+![Homepage](9.png)
+
 4. Version 选 1.21.6
+
+![Homepage](10.png)
+
 5. 剩下的不用管，直接按 Install
+
+![Homepage](11.png)
+
 6. 打开 Minecraft Launcher，你就可以看到那个 Profile 是 Fabric 1.21.6 的了，如果没有关掉重开
+
+![Homepage](12.png)
+
 
 盗版 Tlauncher 玩家需要在 Tlauncher Menu 里选 **Release Fabric Loader 1.21.6** 就可以了
 
+![Homepage](13.png)
+
+
 ## 注意
 Tlauncher 玩家确保选择的是 **Release Fabric Loader 1.21.6**，不是 **Fabric 1.21.6**， 不要选错！
+
+![Homepage](13.png)
