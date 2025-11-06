@@ -33,7 +33,7 @@ Win + R 输入 %AppData%
 
 ![Homepage](3.png)
 
-## 
+---
 
 ## 如果还没装 Fabric 1.21.6
 下载 Fabric 的安装包
