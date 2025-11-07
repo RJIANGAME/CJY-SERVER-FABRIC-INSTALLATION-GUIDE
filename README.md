@@ -1,9 +1,6 @@
 # CJY-SERVER-FABRIC-INSTALLATION-GUIDE
 这个SERVER是1.21.6版本的，只能在1.21.6使用, 玩家需要安装 Fabric 和 Mod 才可以使用那些功能，适用于 Minecraft Launcher 和 Tlauncher 的玩家
-### CJY SERVER IP ADDRESS: 
-### 31.ip.gl.ply.gg:10580
-### OR
-### downloads-mechanisms.gl.joinmc.link
+### CJY SERVER IP ADDRESS: downloads-mechanisms.gl.joinmc.link
 ---
 ## MODPACK + API
 下载 Fabric 的 API，API 也就是 Fabric Mod 和 Minecraft 连接的桥
