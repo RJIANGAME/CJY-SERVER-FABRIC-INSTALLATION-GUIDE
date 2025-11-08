@@ -1,6 +1,7 @@
 # CJY-SERVER-FABRIC-INSTALLATION-GUIDE
 这个SERVER是1.21.6版本的，只能在1.21.6使用, 玩家需要安装 Fabric 和 Mod 才可以使用那些功能，适用于 Minecraft Launcher 和 Tlauncher 的玩家
-### CJY SERVER IP ADDRESS: downloads-mechanisms.gl.joinmc.link
+### CJY SERVER IP ADDRESS:
+### downloads-mechanisms.gl.joinmc.link
 ---
 ## MODPACK + API
 下载 Fabric 的 API，API 也就是 Fabric Mod 和 Minecraft 连接的桥
@@ -9,11 +10,11 @@ https://cdn.modrinth.com/data/P7dR8mSH/versions/F5TVHWcE/fabric-api-0.128.2%2B1.
 ![Homepage](1.png)
 
 下载 Mod
-https://cdn.modrinth.com/data/9eGKb6K1/versions/M37I2pp7/voicechat-forge-1.21.6-2.5.32.jar
+例子：Simple Voice Chat
 
 ![Homepage](2.png)
 
-你会得到一个 Simple Voice Chat 的 java file 和 Fabric API 的 java file
+你会得到一个 Fabric API 的 java file 和 你要的 MOD java file
 
 ![Homepage](3.png)
 
@@ -29,7 +30,7 @@ Win + R 输入 %AppData%
 
 ![Homepage](6.png)
 
-把 Simple Voice Chat 的 java file 和 Fabric API 的 java file paste 在 mods folder
+把 MOD 和 Fabric API 的 java file paste 在 mods folder
 
 ![Homepage](3.png)
 
