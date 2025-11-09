@@ -49,7 +49,7 @@ https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.1.0/fabric-installer-
 
 ![Homepage](9.png)
 
-Version 选 1.21.6
+Version 选 1.21.10
 
 ![Homepage](10.png)
 
