@@ -1,11 +1,10 @@
 # CJY-SERVER-FABRIC-INSTALLATION-GUIDE
-这个SERVER是1.21.6版本的，只能在1.21.6使用, 玩家需要安装 Fabric 和 Mod 才可以使用那些功能，适用于 Minecraft Launcher 和 Tlauncher 的玩家
+这个SERVER是1.21.10版本的, 玩家需要安装 Fabric 和 Mod 才可以使用那些功能，适用于 Minecraft Launcher 和 Tlauncher 的玩家
 ### CJY SERVER IP ADDRESS:
 ### downloads-mechanisms.gl.joinmc.link
 ---
 ## MODPACK + API
 下载 Fabric 的 API，API 也就是 Fabric Mod 和 Minecraft 连接的桥
-https://cdn.modrinth.com/data/P7dR8mSH/versions/F5TVHWcE/fabric-api-0.128.2%2B1.21.6.jar
 
 ![Homepage](1.png)
 
@@ -36,7 +35,7 @@ Win + R 输入 %AppData%
 
 ---
 
-## 如果还没装 Fabric 1.21.6
+## 如果还没装 Fabric 1.21.10
 下载 Fabric 的安装包
 https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.1.0/fabric-installer-1.1.0.exe
 
@@ -58,17 +57,17 @@ Version 选 1.21.6
 
 ![Homepage](11.png)
 
-打开 Minecraft Launcher，你就可以看到那个 Profile 是 Fabric 1.21.6 的了，如果没有关掉重开
+打开 Minecraft Launcher，你就可以看到那个 Profile 是 Fabric 1.21.10 的了，如果没有关掉重开
 
 ![Homepage](12.png)
 
-盗版 Tlauncher 玩家需要在 Tlauncher Menu 里选 **Release Fabric Loader 1.21.6** 就可以了
+盗版 Tlauncher 玩家需要在 Tlauncher Menu 里选 **Release Fabric Loader 1.21.10** 就可以了
 
 ![Homepage](13.png)
 
 
 ## 注意
-**Tlauncher** 玩家确保选择的是 **Release Fabric Loader 1.21.6**，不是 **Fabric 1.21.6**， 不要选错！
+**Tlauncher** 玩家确保选择的是 **Release Fabric Loader 1.21.10**，不是 **Fabric 1.21.10**， 不要选错！
 
 ❌❌❌❌❌❌❌❌
 
